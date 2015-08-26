@@ -1,9 +1,12 @@
 {
   "name": "syntax-changer",
   "main": "./lib/syntax-changer",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "Syntax theme change by buffer grammar.",
-  "keywords": ["syntax", "grammar"],
+  "keywords": [
+    "syntax",
+    "grammar"
+  ],
   "repository": "https://github.com/nobuhito/syntax-changer",
   "license": "MIT",
   "engines": {
