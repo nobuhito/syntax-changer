@@ -1,0 +1,22 @@
+{
+  "name": "syntax-changer",
+  "main": "./lib/syntax-changer",
+  "version": "0.9.3",
+  "description": "Syntax theme change by buffer grammar.",
+  "keywords": [],
+  "repository": "https://github.com/nobuhito/syntax-changer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.1.0"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  }
+}
