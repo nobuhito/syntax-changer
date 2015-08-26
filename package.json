@@ -1,7 +1,7 @@
 {
   "name": "syntax-changer",
   "main": "./lib/syntax-changer",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "Syntax theme change by buffer grammar.",
   "keywords": [
     "syntax",
