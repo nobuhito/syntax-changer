@@ -7,7 +7,7 @@
     "syntax",
     "grammar"
   ],
-  "repository": "https://github.com/nobuhito/atom-syntax-changer",
+  "repository": "https://github.com/nobuhito/syntax-changer",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
