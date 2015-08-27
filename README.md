@@ -1,6 +1,6 @@
 # syntax-changer package for Atom
 
-This package move to https://github.com/nobuhito/syntax-theme-auto-changer
+## This package move to https://github.com/nobuhito/syntax-theme-auto-changer
 
 Syntax theme change by buffer grammar.
 
